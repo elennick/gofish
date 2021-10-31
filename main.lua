@@ -13,10 +13,12 @@ function love.draw()
 
 end
 
+function love.update(dt)
+
+end
+
 function love.keypressed(key, scancode, isrepeat)
 
 end
 
-function love.update(dt)
 
-end
